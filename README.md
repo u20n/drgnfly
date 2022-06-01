@@ -9,5 +9,5 @@ As an example; running a minecraft server...
 java -Xmx16G -Xmx16G -jar server.jar
 ```
 Then run
-`sh drgnfly.sh server.sh`
+`sh dfly.sh server.sh`
 
