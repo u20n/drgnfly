@@ -1,5 +1,8 @@
-### drgnfly
+## drgnfly
 
+Personal collection of utilities for minecraft server
+
+#### dfly.sh
 simple script initially used to run minecraft servers over ssh.
 
 **All scripts must be shell script**
